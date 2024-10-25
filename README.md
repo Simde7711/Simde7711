@@ -9,9 +9,6 @@ Me is a coding enjoyer :3
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Simde7711&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Simde7711&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Simde7711&icon=7&color=5)](https://visitcount.itsvg.in)
 
